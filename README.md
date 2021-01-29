@@ -1,2 +1,31 @@
-The purpose of this homework assignment is to create a day planner for the hours of 9AM-5PM that saves users input to local storage and changes colors based on local time. 
-After many hours of testing and trying I did finally manage to find a way to get all of those functions to work for me. I managed to set up function to compare the timed rows to the current time and to get the colors to change appropriately. I also managed to set what ever the user puts into the calander event section for each time to save to local storage and get retrieved even when the page has been refreshed. I am very happy with the way this turned out! 
+# 05 Third-Party APIs: Work Day Scheduler
+
+Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+## User Story
+
+```
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectively
+```
+GIVEN I am using a daily planner to create a schedule
+WHEN I open the planner
+THEN the current day is displayed at the top of the calendar
+WHEN I scroll down
+THEN I am presented with timeblocks for standard business hours
+WHEN I view the timeblocks for that day
+THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+WHEN I click into a timeblock
+THEN I can enter an event
+WHEN I click the save button for that timeblock
+THEN the text for that event is saved in local storage
+WHEN I refresh the page
+THEN the saved events persist
+```
+## Technologies Used
+    *HTML
+    *JavaScript
+    *CSS
+    *MomentJS library
+    *
