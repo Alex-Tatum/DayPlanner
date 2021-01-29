@@ -30,4 +30,4 @@ THEN the saved events persist
     *MomentJS library
     
 ## Screenshots
-    ![Screenshot](images/WorkDay.png)
+    ![Screenshot](Homework5/images/WorkDay.png)
