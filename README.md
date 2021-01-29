@@ -28,4 +28,6 @@ THEN the saved events persist
     *JavaScript
     *CSS
     *MomentJS library
-    *
+    
+## Screenshots
+    ![Screenshot](images/WorkDay.png)
